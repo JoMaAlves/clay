@@ -1,0 +1,1 @@
+-a is used to reference to all files in a commit or rm in git commands
